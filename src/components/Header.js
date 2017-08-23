@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-
+// Stateless functions
 const Header = (props) => {
     return (
         <header className="top">
